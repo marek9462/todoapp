@@ -109,7 +109,7 @@ const Todo = {
     },
 
     /*
-    Wyświetla listę obecnych tasków1
+    Wyświetla listę obecnych tasków /test master
     */
     renderCurrentTasks: function () {
         if (this.tasks != null) {
