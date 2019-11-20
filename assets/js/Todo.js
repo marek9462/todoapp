@@ -109,7 +109,7 @@ const Todo = {
     },
 
     /*
-    Wyświetla listę obecnych tasków
+    Wyświetla listę obecnych tasków 1
     */
     renderCurrentTasks: function () {
         if (this.tasks != null) {
